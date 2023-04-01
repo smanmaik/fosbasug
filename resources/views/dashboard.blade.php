@@ -85,7 +85,7 @@
                         
                     </div>
                     <div class="form-submit">
-                        <button class="btn btn-primary" type="submit" onclick="payWithPaystack(event)"> Pay </button>
+                        <button class="btn btn-primary" type="submit" onclick="payWithPaystack()"> Pay </button>
                     </div>
                 </form>
                 <script src="https://js.paystack.co/v1/inline.js"></script>
